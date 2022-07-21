@@ -16,7 +16,7 @@
 title: Pedro Rubin
 email: prubincosta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Economics Master's student at Federal University of Rio de Janeiro (UFRJ) and research assistant at the Institute for Applied Economic Research (Ipea).
+  Economics Master's student at Federal University of Rio de Janeiro (UFRJ) and research assistant at the Institute for Applied Economic Research (IPEA).
   Public policies, labor market, inequality and poverty.
   Household surveys and data in general enthusiast.
 twitter_username: pedrorubincosta
@@ -60,13 +60,10 @@ plugins:
 author:
   name   : "Pedro Rubin"
   avatar : "/assets/images/IMG_4381 - cópia.jpg"
-  bio    : "Economics Master's student at Federal University of Rio de Janeiro (UFRJ) and research assistant at the Institute for Applied Economic Research (Ipea). 
+  bio    : "Economics Master's student at UFRJ and research assistant at IPEA. 
             Public policies, labor market, inequality and poverty.
             Household surveys and data in general enthusiast."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://pedrorubin.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pedrorubincosta"
